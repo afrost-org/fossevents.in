@@ -6,7 +6,7 @@ Follow these steps to add an event -
 
 Fork the repository and then clone it locally -
  
-	git clone https://github.com/espatatis/test-jekyll
+	git clone https://github.com/<username>/test-jekyll
 
 ### Step 2
 
@@ -18,11 +18,12 @@ example -
 
 ### Step 3
 
-Copy the contents of the file <url> and fill the details.
+Copy the contents of the file [url] and fill the details.
 
 ### Step 4
 
-Commit the changes to a new branch [name it by the name of your event]
+Commit the changes to a new branch 
+[name it by the name of your event]
 
 	git checkout -b <your-event-name>
 	git add <files>
