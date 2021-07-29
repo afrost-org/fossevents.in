@@ -20,7 +20,6 @@ example -
 
 Copy the contents of the [file](https://raw.githubusercontent.com/espatatis/test-jekyll/master/template-event.md) and fill the details using these [variable](https://github.com/espatatis/test-jekyll/blob/master/contribute.md). 
 
-
 ### Step 4
 
 Commit the changes to a new branch 
