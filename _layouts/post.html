@@ -1,5 +1,20 @@
 <h1>{{ page.title }}</h1>
-<h3>From - {{ page.date | date: "%Y-%m-%d %H:%M" }}</h3>
-<h3>To - {{ page.to_date | date: "%Y-%m-%d %H:%M" }}</h3>
+<!-- {% assign year_one = page.date | date: "%Y" %}
+{% assign year_two = page.to_date | date: "%Y" %}
+{% assign month_one = page.date | date: "%-m" %}
+{% assign month_two = page.to_date | date: "%-m" %}
+{% assign day_one = page.date | date: "%-d" %}
+{% assign day_two = page.to_date | date: "%-d" %}
+{% if year_one == year_two %}
+    {% if month_one == month_two %}
+        {% if day_one == day_two %}
+            <h3>{{ page.date | date: "%-d %B %Y %H:%M" }}</h3>
+        {% else %}
+            <h3>{{ day_one }}-{{ page.to_date | date: "%-d %B %Y %H:%M" }}</h3>
+        {% endif %}
+    {% endif %}
+
+{% endif %} -->
+<h3>{{ page.date | date: "%-d %B %Y %H:%M" }} - {{ page.to_date | date: "%-d %B %Y %H:%M" }}</h3>
 <hr>
 {{ content }}
