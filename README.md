@@ -18,7 +18,8 @@ example -
 
 ### Step 3
 
-Copy the contents of the file [url] and fill the details.
+Copy the contents of the [file](https://github.com/espatatis/test-jekyll/blob/master/template-event.md) and fill the details using these [variable](https://github.com/espatatis/test-jekyll/blob/master/contribute.md). 
+
 
 ### Step 4
 
