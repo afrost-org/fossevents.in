@@ -1,6 +1,6 @@
 ---
 title:  This is a test Post
-date:   2021-07-17 19:30:13 +0530
+date:   2021-07-17 19:30:13
 ---
 
 ### This is a test post
