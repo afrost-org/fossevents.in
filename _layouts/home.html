@@ -151,7 +151,7 @@ a:-webkit-any-link {
 <body class="site  page--home  ">
     <header class="site-header">
         <nav>
-           <a class="site-logo" href="/"><img class="logo" src="{{site.baseurl}}/assets/images/logo.png"></a>
+           <a class="site-logo" href="{{site.baseurl}}/"><img class="logo" src="{{site.baseurl}}/assets/images/logo.png"></a>
            <ul>
               <li><a style="padding:10px;" href="#">Submit an event</a></li>
               
@@ -173,7 +173,7 @@ a:-webkit-any-link {
         {% assign current_date = "now" | date: "%Y-%m-%d %H:%M" %}
        
             {% for post in events %}
-                <a class="event card-panel" href="/test-jekyll{{ post.url }} "> 
+                <a class="event card-panel" href="{{site.baseurl}}{{ post.url }} "> 
                 {% assign d1 = post.date | date: "%Y-%m-%d %H:%M" %}
                 {% assign d2 = post.to_date | date: "%Y-%m-%d %H:%M" %}
                 <h3 class="event--header">{{ post.title }}</h3>
