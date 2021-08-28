@@ -205,7 +205,7 @@ a:-webkit-any-link {
                 {% endif %}
                 <!-- <br> -->
                 <!-- <a style="color: rgb(21, 112, 134); text-decoration: none;" href="/test-jekyll{{ post.url }} "><h3>{{ post.title }}</h3></a>  -->
-                <p class="event--url" style="color: #424242;">{{ post.link }}</p>
+                <p class="event--url" style="color: #424242;">{{ post.link | truncate:39 }}</p>
            
                 </a>
                 
