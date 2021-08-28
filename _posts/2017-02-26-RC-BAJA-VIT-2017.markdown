@@ -1,0 +1,80 @@
+---
+title: RC BAJA VIT 2017
+date: 2017-03-10 00:00:00
+to_date: 2017-03-11 00:00:00
+link: http://MECHNOVATE.ORG
+---
+
+MECHNOVATE'17 : RC BAJA
+
+Introduction:
+
+Mechnovate'17 : RC Baja is an intercollegiate design competition organised by the American Society of Mechanical Engineers -VIT. Teams of students from universities all over the country design and build small off-road cars. The cars all have engines of the same specifications. The goal in RC Baja racing is to design, build and race off-road vehicles that can withstand the harshest elements of rough terrain.
+
+The object of the competition is to simulate real-world engineering design projects and their related challenges. Each team is competing to have its design accepted for manufacture by a fictitious firm. The students must function as a team to design, build, test, promote and compete a vehicle within the limits of the rules, also to generate financial support for their project and manage their educational priorities. Each team's goal is to design and build a prototype of a rugged, single seat, off-road recreational vehicle intended for sale to the non-professional weekend off-road enthusiast. The vehicle must be safe, easily transported, easily maintained and fun to drive. It should be able to negotiate rough terrain without damage.
+
+Eligibility :
+
+Competition Teams must be comprised entirely of undergraduate students. There is no limit on the number of Teams that may enter the Competition nor is there a limit on the number of Teams from any given school. Each Team is responsible to produce a remote controlled vehicle in accordance with these regulations. Each Team is encouraged to bring sufficient spare parts and supporting equipment needed to complete the Events outlined herein. Each Team wishing to compete in the RC Baja Car Competition must register online or on spot at the event.
+
+
+
+Vehicle Requirements :
+
+1.	Vehicle Restrictions
+The purpose of these restrictions is to ensure an event competition of student-produced vehicles, all of which use common, easily available drive trains; rather than allowing expensive, off-the-shelf "professional-sports" entries. The vehicle must be conceived, designed, and fabricated by students without any direct involvement from professional engineers, automotive engineers, or related professionals. The student competition Team may use any literature or knowledge related to the design of the vehicle. The students may use information from professionals or from professors as long as the information is received in a discussion of alternatives with their pro's and con's. Professionals may not make decisions of design or drawings, or fabricate parts for the Team except as needed by shop rules and safety considerations.
+
+
+Mandatory Components :
+
+Radio-controlled car parts which you must use, as specified here, without alterations. You must use the motor and the battery pack as specified below; these are the only sources of power that can be used for propulsion:
+
+a) Propulsion Motor: One per vehicle. Propulsion motor may perform additional functions, and additional motors may be carried on the vehicle for other purposes, but only one motor may propel the vehicle.
+
+b) Propulsion Battery Pack: One per vehicle. The propulsion battery-pack may perform additional functions, and additional batteries of other types may be carried on the vehicle for other purposes, but only one battery-pack may propel the vehicle. Propulsion battery-pack is defined as: any 7.2-Volt 6-cell RC battery, or, any 7.4-Volt 2-cell or 2S LiPo RC battery when used with proper “balancing” charger and allied equipment. Batteries may be un-wrapped and wired separately but not altered internally; bring the original case or wrapper to show type and classification. Teams may bring and swap-out more than one battery-pack to minimize “re-charging” downtime. Battery must be securely mounted to vehicle.
+
+Purchased or Custom Made Components, Make or Buy, It’s your choice:
+Commerciallymanufactured vehicle parts which you may select and purchase, subject to these limitations; you may also make any of these items:
+a) Transmitter, receiver, servo's: Your choice, make or buy, with proper Channel.
+b) Speed control: Any available RC style – e.g. mechanical, resistor, or electronic – is okay. Home-made controls can be of any common RC style. Separate dedicated batteries just for your controls are acceptable, but they may not help propel the vehicle. 
+c)Wheels, shocks, tank-treads, springs, hubs and spindles. Tires and traction devices that would leave marks on the venue’s floors will not be allowed.
+d) Multiple servo's are okay. 
+e) Store-bought universal joints are okay.
+f) Nuts, bolts, shafting, ordinary hardware and machine components; transistor and chip components. g) Differentials made by the Team from pre-existing separate components, or "toy-kit" (e.g: Erector SetTM; iThinkTM , LegoTM ) differentials, ARE acceptable. Differentials sold or intended for radio-controlled vehicles are NOT acceptable. You must describe the origin of your differential unit.
+h) Non-functional ornaments. Body, if used, shall not interfere with inspection of vehicle components.
+
+"YOU MAKE IT” = the rest of the vehicle.
+
+Transmitter / Controller Requirements :
+
+For non-interference during the Competition, transmitter frequencies must be unique and at least two Channel numbers apart. Request approval of your desired Channel with the Mechnovate'17 Team  via e-mail, and request that confirmation be returned. Channels will be allotted on a first-requested first-accepted basis by time of correspondence, so do this early. Drivers and Teams required to use their assigned-frequency. Before set-up and competition, the Mechnovate'17 Team will examine the transmitter frequencies to verify that they are as pre-registered or at least unique and properly spaced from others; if not, transmitters will have to be changed or isolated so as not to interfere with other competitors.
+
+Baja Driving Rules : 
+
+1)Drivers are expected to become familiar with the lay-out and conditions of the Baja Course, before and during the Races, and to immediately call any apparent Course flaws to the attention of the Judges for possible correction.
+
+2)Special agents that increase traction may not be added to the tires or track surface. Tires that would leave marks on the nice venue’s floors will not be allowed, and shall be disqualified if not corrected. 
+
+3)Before the start of each match up, one of the Drivers, selected at random by coin-toss or ‘matching pennies’ or anything similar, shall choose one of the lanes, with the other Driver taking the other lane. Keeping in mind, the lanes shall be as identical as we can make them, and if one Driver ‘knows’ something good or bad about the lanes, that information needs to be disclosed. Drivers may stand anywhere or move about, during the run. The Driver (only) may rescue, by hand, a stranded or marooned vehicle. Rescues may not improve track location or velocity of vehicle; except: if the vehicle cannot get over a course obstacle after three good-faith attempts, the Driver can carry or drive around to the other side. 
+
+4)Vehicle may go completely outside a non-barrier-type (e.g. masking tape, chalk) track boundary on an outside turn or a straight portion of the track; but if ALL of the vehicle’s wheels or tracks go outside a lane or track boundary on an inside turn (“taking a short-cut”), that turn must be repeated from at or behind point of departure. A vehicle may intrude into the other vehicle’s lane, so long as the intrusion does not influence or impede the other vehicle nor “take a short-cut” to shorten the designated travel distance. 
+
+5)In the event of detrimental lane violations, vehicle collisions, track defects, or unsportsmanlike driver conduct, a “Foul!” may be shouted-out by either driver or by any Judge. Both vehicles shall stop and the Judges shall make an at-fault, no-fault, or track fault determination. Judges may gather information from the drivers and witnesses. As a general rule, the vehicle determined to have been on the “wrong side” of the centerline shall be presumed to be ‘at fault’ and the other vehicle shall be declared the winner of the match, but, the Judges may make contrary or cancelling determinations in cases of actions needed for safety, bad conduct or enticement by either driver, or improper Course conditions. A driver making an unjustified “Foul!” call loses the match-up. If an offended driver, voluntarily and after vehicle examination, declares “forgiveness” of a collision or violation, or, after faulty Course conditions are corrected, the Race shall begin again, with both vehicles starting in their own lanes, located as at the moment of the incident.
+
+6)After each run, in order to save time, Team members shall assist in clearing their car (and remnants) off the track so that another Team can be running.
+
+7.	Disqualification :
+
+Teams may be disqualified for not following the rules contained within this document, particularly relating to vehicle requirements and team conduct.
+Teams may be disqualified for unruly or unsportsmanlike behavior, or by showing a deliberate pattern of avoiding or circumventing the intent of the race courses. Teams should conduct themselves in a professional manner throughout the event, keeping in mind they are representing not only themselves but also their school and ASME Student Section.
+Vehicles whose equipment or construction is in violation of these Rules may, at the option of the Mechonvate'17 Organising and Judges, be allowed to make solo ‘demonstration’ runs on the Courses, but shall be not eligible to be ranked or “win”.
+
+Date: 10 – 11 March
+Time: 10:00 AM – 5:00 PM
+Venue: Basketball Ground ( Anna Audi)
+Contact:
+Atharva Kulkarni: +91 9843888968
+Parth Pramesh: +91 7878284253
+Registration Fee:
+Vehicle Registration: Rs.700
+Individual Registration: Rs.100*(exclusive of all taxes)

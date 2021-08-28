@@ -1,0 +1,16 @@
+---
+title: Debutsav.in
+date: 2018-09-24 09:00:00
+to_date: 2018-09-25 18:00:00
+link: https://debutsav.in/
+---
+
+Debian is the Universal Operating System of the users, by the users, for the users.”
+
+— Anonymous
+
+DebConf is the annual Debian conference which is held in a different country every year. DebConf18 was held in Hsinchu, Taiwan, from July 29 to August 5, 2018.
+
+MiniDebConfs are local meetings organized by Debian project members to achieve similar objectives to those of the DebConf, but on a regional context.
+
+When majority of talks are not Debian specific, it is called DebUtsav - celebration of Free Software by Debian community.

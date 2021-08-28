@@ -1,0 +1,8 @@
+---
+title: PyCon Pune 2018
+date: 2018-02-08 00:00:00
+to_date: 2018-02-11 00:00:00
+link: https://pune.pycon.org/
+---
+
+PyCon, the gathering for the community using and developing the open-source Python programming language. During PyCon Pune, the community will meet for two days of talks and work on upstream projects in two days of dev sprint.

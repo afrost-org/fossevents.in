@@ -1,0 +1,8 @@
+---
+title: OpenHack 2019
+date: 2019-10-26 09:00:00
+to_date: 2019-10-27 18:00:00
+link: https://openhack.tech/
+---
+
+A 2 day, immersive open hackathon where students, professionals, researchers, makers and anyone with an interest in technology gather together to build a single project, a disaster management, awareness and alertness platform

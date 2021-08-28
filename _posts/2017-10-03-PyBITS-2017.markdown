@@ -1,0 +1,8 @@
+---
+title: PyBITS 2017
+date: 2017-10-28 00:00:00
+to_date: 2017-10-29 00:00:00
+link: https://www.bits-atmos.org/pybits
+---
+
+The Python Conference for Students

@@ -1,0 +1,9 @@
+---
+title: FOSSMeet'20
+date: 2020-03-27 17:00:00
+to_date: 2020-03-29 14:00:00
+link: http://fossmeet.in
+---
+
+FOSSMeet is an annual event at NIT Calicut that brings together the Free and Open Source Community from around the country.
+Started in 2004, the event has seen a great array of speakers and participants passionate in freedom of software from all over India. Notable dignitaries include Bradley M Kuhn (President, Software Freedom Conservancy), Dr. Sasi Kumar (Director, Free Software Foundation India), Marco Fioretti (FOSS Activist) among others.

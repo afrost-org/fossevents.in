@@ -1,0 +1,8 @@
+---
+title: FOSSMeet '19
+date: 2019-02-15 13:00:00
+to_date: 2019-02-17 07:00:00
+link: https://fossmeet.in
+---
+
+FOSSMeet is an annual event at NIT Calicut that brings together the Free and Open Source Community from around the country. Celebrating its fifteenth year, we have thus far, had an array of speakers and experts, open discussions, introduce new technology, and so much more, in line with the ideology of FOSS. It's time to set the stage once again and we urge you to join us in supporting the project that you believe in. We are inviting proposals for talks and workshops at FOSSMeet 2019. You may propose to conduct a lecture, demo, tutorial, workshop, discussion or panel at FOSSMeet by visiting the link above. Join us: Think Better, Code Free

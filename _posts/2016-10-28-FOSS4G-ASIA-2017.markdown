@@ -1,0 +1,8 @@
+---
+title: FOSS4G-ASIA 2017
+date: 2017-01-26 09:00:00
+to_date: 2017-01-29 17:30:00
+link: http://www.foss4g-asia.org/2017/
+---
+
+OSGeo-India is glad to announce the second edition of FOSS4G-Asia organized on 26th-29th January, 2017 at IIIT-Hyderabad. The FOSS4G conference series are designed to foster the development and promote the widespread use of open source geospatial technologies. FOSS4G-Asia extends this movement in Asia and welcomes all GIS communities and tribes.

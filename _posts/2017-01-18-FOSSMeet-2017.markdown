@@ -1,0 +1,10 @@
+---
+title: FOSSMeet 2017
+date: 2017-03-10 15:30:00
+to_date: 2017-03-12 18:30:00
+link: http://fossmeet.in
+---
+
+FOSSMeet is the annual event on Free and Open source software, conducted at National Institute of technology, Calicut to create awareness and encourage the use of free and open source software. 
+
+This will be the 11th edition of FOSSMeet starting from 2005. Started with a vision to create a culture of innovation, evolution and open standards, the meet intends to support the FOSS community and the dissemination of FOSS ideology through hands-on sessions, discussions and lectures.

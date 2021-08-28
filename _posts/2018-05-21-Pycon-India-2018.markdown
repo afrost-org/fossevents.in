@@ -1,0 +1,10 @@
+---
+title: Pycon India 2018
+date: 2018-10-05 09:00:00
+to_date: 2018-10-09 18:00:00
+link: https://in.pycon.org/2018/
+---
+
+10 years of Pycon India , Happening from 5th Oct  to 9th Oct
+
+PyCon India, the premier conference in India on using and developing the Python programming language is conducted annually by the Python developer community. It attracts the best Python programmers from across the country and abroad.

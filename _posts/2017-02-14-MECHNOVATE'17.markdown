@@ -1,0 +1,142 @@
+---
+title: MECHNOVATE'17
+date: 2017-03-09 00:00:00
+to_date: 2017-03-12 00:00:00
+link: http://www.mechnovate.org/
+---
+
+Mechnovate is an international level technical symposium organized by the international chapter, ASME VIT. This symposium is a carnival for all those engineering students out there that is interested in learning new things and is looking forward to enlighten their knowledge. It aims to bring the best minds in India together on a common platform where new ideas come forth and newer opportunities could be created. This fest will have various technical and nontechnical events, series of lectures; seminars and exhibitions, which will enrich an engineer with advanced knowledge in their field and attract students of various disciplines from all over India. Right from the beginning Mechnovate has been improving its standards to meet its tag ENVISION THE CHANGE. This March, Mechnovate 2017 is coming with much better events and lectures handled by expert professors and perfectly designed workshops to make sure students make something out of it. So come join us on an adventurous ride along with the best events and workshops. Have fun and enhance your skills this March from the 9th to 12th.
+
+Nexus
+NEXUS is a premium event under Mechnovate .It comprises of showcase events like RC BAJA, Impulse. It also includes Guest Lecture Series by some of most successful CEO’s , Entrepreneurs and Leaders in the field of techanical and management branches.It promises to provide great knowledge,experience , hands on experience and opportunity to interact with some experienced people of the world. 
+
+RC BAJA
+It is a intercollege design competition in which teams from various universities all over the country design unique small off-road cars. The main objective of RC BAJA Racing is to deign, build and race vechicles that can withstand harshest Elements of rough terrain.The students function as a team to design, build, test and promote their vehicle within limit of rules to a fictitious firm.The vehicles should be economical,safe and be able to function even in roug terrains.
+Date - 10-11 March   
+Time - 11:00 AM – 5:00 PM
+Venue – Basketball ground
+Registration Fees: Rs. 700 *(exclusive of taxes) 
+
+IMPLUSE: WATER ROCKETRY
+Why do rockets use fuel always, its time to think different? This is a mechanical event that involves manufacturing of rocket that uses water pressure as thrust to propel and travel. The students should have knowledge of fabrication, materials and other physical terms. The rocket’s flight, time of flight, range excites consists of 2 rounds of elimination for the ultimate battle between the winners
+Date - 10-11 March   
+Time - 11:00 AM – 5:00 PM
+Venue – SJT Ground
+Registration Fees:  Rs. 400 *(exclusive of taxes) 
+ Guest Lecture Series
+1.	Arvind Pani
+Co-Founder & CEO at Reverie Language Technologies Pvt. Ltd
+Previously worked as 
+•	Director - Strategy & Business Development  Reverie Technologies Pvt. Ltd
+•	Engineering Manager at Intel Technology India Pvt Ltd.
+Education NIT Rourkela 
+2.	Bal Krishna Birla
+CEO at Zimplify
+Co-founder and founder at TheSongPedia and AdalBdal
+President Four Interactive(AskLaila).
+Education IIT Kanpur.
+3.	Shree Bhise
+Director at Mobisy technologies Pvt Ltd
+Previously worked as
+•	Test Lead IBM.
+•	Software Engineer Tech Mahindra
+Education: Walchand College Of Engineering.
+4.	Venkat Shyam
+CEO at Signet Enterprises.
+Founder-Mentor-Executive Partner GreenTree Ventures.
+Previously worked at Bajaj Auto.
+Education: IIM Bangalore
+
+5.	Sameer Shisodiya
+VP, Products at Reverie Language Technologies Pvt Ltd
+CEO/Founder Linger Leisure
+Previously worked as
+•	Head of content and strategy at NextBigWhat
+•	Head of products at Ziva Software.
+Education: BITS
+Registration fees: Rs. 500 *(exclusive of all taxes)
+
+
+
+
+
+
+
+
+
+
+Workshops
+
+Automobile Dynamics And Design
+India is fast becoming the Automobile manufacturing Hub of the world. This training program covers concepts related to design and dynamics of car. Its helps students gain knowledge on design suspension parameters, aerodynamics, braking system steering effort chassis balancing etc needed to create their own design of cars.
+Date:   11-12 March
+Timing:   9:30 AM - 06:00 PM
+Venue - TT Gallery 2
+Registration fees: Rs. 1000 *(exclusive of all taxes)
+
+
+
+CFD with ANSYS
+This is one of the important tools for solving the current industrial mechanical problems in machines and any dynamic objects that are in contact with the fluids (liquid or air). 
+
+ANSYS, Inc. Is an American Computer-aided engineering software developer headquartered south of Pittsburgh in Cecil Township, Pennsylvania, United States? Andy’s publishes engineering analysis software across a range of disciplines including finite element analysis, computational fluid dynamics, and explicit and implicit methods.
+
+In 2 days workshop students will learn the concept of Fluid dynamics and how to solve the fluid dynamics problems with the help of Andy’s software with no of projects. Laptops are compulsory.
+Date:   10 - 11 March
+Timing:   9:30 AM - 06:00 PM
+Venue – Kamraj Auditorium
+Registration fees: Rs. 950 *(exclusive of all taxes)
+
+
+
+Vehicle Reconstructing
+Interested in building cars then this is your event. In this event vehicle is reconstructed from the scratch, from engine installation, cooling systems, electrical system installation and checking. These events give you hands on experience to build a car and offer you great knowledge too.
+Date:   11th-12th March
+Timing:   9:30 AM - 06:00 PM
+Venue - TT Gallery 1
+Registration fees: Rs. 1000 *(exclusive of all taxes)
+
+
+Aero Design
+This is event that gives every knowledge you need to know about aircraft from designing of wings, engines to aerodynamics and troubleshooting. It will help you gain a lot of experience and boost your aircraft technology knowledge.
+Date:   9 - 10 March
+Timing:   9:30 AM - 06:00 PM
+Venue- MB210
+Registration fees: Rs. 900 *(exclusive of all taxes)
+
+
+
+
+EVENTS
+
+Stratagem
+This event unlocks your imagination and building the most complex structures to make the object fly, swing, swirl, and travel. ‘Stratagem’ turns on its head in that where most other events seek to simplify a complex problem; this requires you to enthrall the judges and the audience with your ability to convolute the simplest of actions with an infinite array of steps. The more complex it is the better is the point you score.
+Date - 9 March   
+Time - 06:00 PM - 8:30 PM
+Venue – MB220
+Registration fees: Rs. 100 *(exclusive of all taxes)
+
+CAD Quest
+Computer-aided design (CAD) is the use of computer systems (or workstations) to aid in the creation, modification, analysis, or optimization of a design. CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing. Computer-aided drafting (CAD), which includes the process of creating a technical drawing with the use of computer software.
+
+The participants will have to design a 3D model in CAD Software. A prototype will be provided and, participants have to add an innovation in that product. One team can choose only one product out of three designs provided and submit it within the given deadline
+
+Questionnaire session in which the judges and the opponents can ask questions on the designed model.
+Date  - 9 March  
+Time - 06:00 PM – 8:30 PM
+Venue – MB113 and MB115
+Registration fees: Rs. 100 (per team of 2) *(exclusive of all taxes)
+
+Reverse engineering
+This is event in Mechnovate where Participants will be provided 2/3 products (manufactured). It will be divided among the participants. Then the participants will be given a certain time limit and then they will study the product and start writing the steps and principles involved in manufacturing.
+Date  - 10 March  
+Time - 06:00 PM – 8:30 PM
+Venue – MB220
+Registration fees: Rs. 100 (per team of 2)*(exclusive of all taxes)   
+
+Paper Presentation
+ASME VIT student chapter presents Paper Presentation .The event showcases vivid range of topics to capture the bright minds and their innovative ideas, as it unfolds to achieve the ultimate aim to 'Envision The Change'. The paper can be related to any topic majorly related to Mechanical, Energy, Chemical and Automobile Engineering. Minor relation to other branches is allowed.
+Date  - 11 March  
+Time - 11:30 AM – 6:00 PM
+Venue – MB210
+Registration fees: Rs. 500 *(exclusive of all taxes)
