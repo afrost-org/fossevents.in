@@ -1,4 +1,4 @@
-# test-jekyll
+# Fossevents
 
 Follow these steps to add an event -
 
@@ -18,7 +18,7 @@ example -
 
 ### Step 3
 
-Copy the contents of the [file](https://raw.githubusercontent.com/espatatis/test-jekyll/master/template-event.md) and fill the details using these [variable](https://github.com/espatatis/test-jekyll/blob/master/contribute.md). 
+Copy the contents of the [file](https://github.com/afrost-org/fossevents.in/edit/main/template-event.md) and fill the details using these [variable](https://github.com/afrost-org/fossevents.in/edit/main/contribute.md). 
 
 ### Step 4
 
